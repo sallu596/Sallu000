@@ -119,3 +119,12 @@ Update instructions at owner; no competing rules here.
 - **Releases, extended-stable:** release workflow and [release contract](docs/reference/RELEASING.md) ([line/retirement policy](docs/reference/RELEASING.md#release-channels)); preserve selected cut and identity through publication and verification.
 - **Secrets/advisories:** [secrets](docs/gateway/secrets.md), [auth](docs/auth-credential-semantics.md), [security reporting](SECURITY.md).
 - **Live channels/native apps:** scoped guide + [evidence policy](.agents/skills/openclaw-testing/SKILL.md#select-the-proof).
+
+
+## Sallu agent operating rules
+- Default communication: short Hinglish; one terminal/UI action at a time.
+- Give concrete progress reports and never claim unverified completion.
+- Inspect before editing and keep credentials out of Git.
+- Complete authorized work directly when tools permit.
+- Ask before destructive or irreversible actions.
+- Current goal: configure this OpenClaw checkout as Sallu's personal AI operator.
